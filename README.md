@@ -37,9 +37,6 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 * `solution_test.py` - Do not modify this. You can test your solution by running `python solution_test.py`.
 * `PySudoku.py` - Do not modify this. This is code for visualizing your solution.
 
-### Visualizing
-
-To visualize your solution, please only assign values to the values_dict using the ```assign_values``` function provided in function.py
 
 ### Data
 
